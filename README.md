@@ -1,2 +1,2 @@
-# projeto-springboot-api-authentica-o
+# projeto-springboot-api-authenticao
 Projeto da criação de uma api de authenticação utilizando Spring Boot 
